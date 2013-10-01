@@ -1,4 +1,4 @@
-cloaked-octo-ninja
+progfun
 ==================
 
-progfun
+Assignments for Functional Programming course by M. Odersky 
